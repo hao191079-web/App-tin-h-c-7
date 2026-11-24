@@ -6,7 +6,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base:/'App-tin-hc-7'/,
+    base:/'App-tin-h-c-7'/,
     plugins: [
       react(),
       tailwindcss(),
